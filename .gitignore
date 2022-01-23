@@ -1,4 +1,5 @@
 *.exe
+*.exe*
 *.lnk
 bin/
 obj/
