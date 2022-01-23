@@ -186,10 +186,10 @@ namespace SelectFileToUsb
                         }
                         catch (System.Exception ex)
                         {
+                            transaction.Rollback();
                             MessageBox.Show(ex.Message);
                             MessageBox.Show("データベースに書込みできませんでした。再度確定するか、" +
                                 "終了してしばらく経ってからやり直してください。");
-                            transaction.Rollback();
                             return false;
                         }
                     }
