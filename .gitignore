@@ -1,0 +1,8 @@
+*.exe
+bin/
+obj/
+archive/
+dummyUSB/
+semaphore/
+sqlite_db/
+temp/
