@@ -123,7 +123,7 @@ namespace WriteToUsb
         // 「終了」ボタン
         private void QuitButton_Click(object sender, RoutedEventArgs e)
         {
-           Close();
+           Application.Current.Shutdown();
         }
 
         // ListBoxに表示されているファイルを取得する
@@ -139,7 +139,7 @@ namespace WriteToUsb
             string dummyDir = @"..\..\..\dummyUSB\";
 
             //copy files
-            string datetime = DateTime.Now.ToString();
+            string datetime = DateTime.Now.ToString("yyyy/MM/dd HH:mm:ss");
 
             foreach (string path in filePaths)
                {

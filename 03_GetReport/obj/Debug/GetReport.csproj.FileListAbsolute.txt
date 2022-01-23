@@ -1,0 +1,14 @@
+C:\Users\12181.LFPC9011\work\USBLogHandler\03_GetReport\bin\Debug\SQLite.Interop.dll
+C:\Users\12181.LFPC9011\work\USBLogHandler\03_GetReport\bin\Debug\GetReport.exe
+C:\Users\12181.LFPC9011\work\USBLogHandler\03_GetReport\bin\Debug\GetReport.pdb
+C:\Users\12181.LFPC9011\work\USBLogHandler\03_GetReport\bin\Debug\System.Data.SQLite.dll
+C:\Users\12181.LFPC9011\work\USBLogHandler\03_GetReport\obj\Debug\GetReport.csprojResolveAssemblyReference.cache
+C:\Users\12181.LFPC9011\work\USBLogHandler\03_GetReport\obj\Debug\MainWindow.g.cs
+C:\Users\12181.LFPC9011\work\USBLogHandler\03_GetReport\obj\Debug\App.g.cs
+C:\Users\12181.LFPC9011\work\USBLogHandler\03_GetReport\obj\Debug\GetReport_Content.g.cs
+C:\Users\12181.LFPC9011\work\USBLogHandler\03_GetReport\obj\Debug\GetReport_MarkupCompile.cache
+C:\Users\12181.LFPC9011\work\USBLogHandler\03_GetReport\obj\Debug\GetReport_MarkupCompile.lref
+C:\Users\12181.LFPC9011\work\USBLogHandler\03_GetReport\obj\Debug\MainWindow.baml
+C:\Users\12181.LFPC9011\work\USBLogHandler\03_GetReport\obj\Debug\GetReport.g.resources
+C:\Users\12181.LFPC9011\work\USBLogHandler\03_GetReport\obj\Debug\GetReport.exe
+C:\Users\12181.LFPC9011\work\USBLogHandler\03_GetReport\obj\Debug\GetReport.pdb
